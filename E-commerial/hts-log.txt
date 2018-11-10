@@ -1,0 +1,603 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 10 Nov 2018 10:08:38 at http://mwc.com.vn/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://mwc.com.vn/ -O1 "D:\Data\Projects\E-commerial\E-commerial" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/~/Themes/images/logo.png (from mwc.com.vn/)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/fonts/glyphicons-halflings-regular.svg (from mwc.com.vn/Themes/css/bootstrap.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/fancybox_sprite.png (from mwc.com.vn/Themes/css/jquery.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/fancybox_loading.gif (from mwc.com.vn/Themes/css/jquery.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/blank.gif (from mwc.com.vn/Themes/css/jquery.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/fancybox_overlay.png (from mwc.com.vn/Themes/css/jquery.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/fancybox_sprite@2x.png (from mwc.com.vn/Themes/css/jquery.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/fancybox_loading@2x.gif (from mwc.com.vn/Themes/css/jquery.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/fonts/fontawesome-webfont.svg?v=4.5.0 (from mwc.com.vn/Themes/css/font-awesome.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/submenu.png (from mwc.com.vn/Themes/css/style.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/menu-divider.png (from mwc.com.vn/Themes/css/style.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/close.png (from mwc.com.vn/Themes/css/style.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/pattern2.png (from mwc.com.vn/Themes/css/style.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/pattern.png (from mwc.com.vn/Themes/css/style.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/parallax-bg.jpg (from mwc.com.vn/Themes/css/style.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/iconalt.svg (from mwc.com.vn/Themes/css/style.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/grid.png (from mwc.com.vn/Themes/css/style.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/dotted.png (from mwc.com.vn/Themes/css/style.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/widget-comment.png (from mwc.com.vn/Themes/css/style.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/preloader_2x.gif (from mwc.com.vn/Themes/css/responsive.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/preloader-dark_2x.gif (from mwc.com.vn/Themes/css/responsive.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/widget-comment_2x.png (from mwc.com.vn/Themes/css/responsive.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/widget-link_2x.png (from mwc.com.vn/Themes/css/responsive.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/widget-comment-dark_2x.png (from mwc.com.vn/Themes/css/responsive.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/icon_star.ico (from mwc.com.vn/Themes/css/custom_style.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/Themes/css/owl.video.play.png (from mwc.com.vn/Themes/css/owl.css)
+10:09:55	Error: 	"Not Found" (404) at link mwc.com.vn/post/~/Themes/images/logo.png (from mwc.com.vn/post/gioi-thieu-ve-mwc)
+10:09:58	Error: 	"Not Found" (404) at link mwc.com.vn/collections/~/Themes/images/logo.png (from mwc.com.vn/collections/giay-nu)
+10:11:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_8b34b5c13bc444e18c782beebc28f7d1.jpg
+10:11:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_3f68908d58d74415a94e57b76d1a6a60.jpg
+10:11:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_82226e549a8b4610b28e36795cbdf2b0.jpg
+10:12:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/bac__2__fd9e37421e3147fcbdaeef3b81b18e91.jpg
+10:12:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/de_3_c248365487b8465fbf18afac72180cce.jpg
+10:13:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/xam_4.jpg
+10:13:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den_3_86438bef80b94e9b851ae6937f84d92a.jpg
+10:18:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35923453_1676998915687911_7737784355732324352_n_grande.jpg
+10:18:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35732278_1676998842354585_554903753099051008_n_grande.jpg
+10:18:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35744104_1676998989021237_4276782473188212736_n_grande.jpg
+10:18:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35686875_1676999022354567_9121479894876815360_n_grande.jpg
+10:18:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35530583_1674911965896606_6269827060093419520_n_grande.jpg
+10:18:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35646908_1674912002563269_1835886704137863168_n_grande.jpg
+10:18:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35643799_1674911975896605_5252622012324511744_n_grande.jpg
+10:18:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35971447_1680867251967744_1573799970010562560_n_grande.jpg
+10:18:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35925305_1680867281967741_4418338251597676544_n_grande.jpg
+10:18:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35842469_1677000045687798_1496280736645251072_n_grande.jpg
+10:18:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35739017_1677000185687784_4422255012663525376_n_grande.jpg
+10:18:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35629099_1677000085687794_8954323435618566144_n_grande.jpg
+10:19:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31955874_1630899553631181_3841698218769383424_n_grande.jpg
+10:19:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31948804_1630899470297856_4594828611093004288_n_grande.jpg
+10:19:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31963851_1630899476964522_5664493742329954304_n_grande.jpg
+10:19:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30739294_1614750048579465_4837544248146395136_n_grande.jpg
+10:19:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30724757_1614750035246133_6411286261868265472_n_grande.jpg
+10:19:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30725262_1614750271912776_330489444140318720_n_grande.jpg
+10:19:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30411878_1605113426209794_8347673645954367488_n_grande.jpg
+10:20:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30698216_1609133485807788_2793109462716514304_n_grande.jpg
+10:20:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30657290_1609133502474453_4860452255083528192_n_grande.jpg
+10:20:48	Warning: 	HTML file (94016 bytes) retransferred due to lack of cache: mwc.com.vn/products/giay-slipon-nu-mwc-nusl--1532-3298?c=%c4%90EN
+10:20:53	Warning: 	HTML file (89085 bytes) retransferred due to lack of cache: mwc.com.vn/products/giay-slipon-nu-mwc-nusl--1532-3298?c=TR%e1%ba%aeNG
+10:21:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_f33886b5fc86430e8e854e92c30bdf6e.jpg
+10:21:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_b824554edaea46508b7c961098ae56bb.jpg
+10:22:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_e3318e9d85ea4228a34bec9faa589b0d.jpg
+10:22:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_d4412f93f2cf469396b624f792f87895.jpg
+10:22:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_9e593328483241c1804ae48e150f7ff2.jpg
+10:22:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_72371dc1170547ab8f51acaef6e41579.jpg
+10:22:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_1d1042bfda044dcc989951115f732489.jpg
+10:23:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_aaf4df21b7724d5ca24d19909ffc223a.jpg
+10:23:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_893a9004d6a5472e8688545d3b7e6814.jpg
+10:23:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_31c68bc32e104cb9beec2630bcdd55c9.jpg
+10:30:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den__1__b4945403e4d64b33a3360b594a290549.jpg
+10:30:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/nau__2__7ec2fc35915f44b4904ff5b42d83953e.jpg
+10:30:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den__5__b3c8c65dc5954e1cab3b3a2cc305a576.jpg
+10:30:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den__2__5a17d760f2334db2ba0cf09f1428a8f1.jpg
+10:30:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den__5__4c76bd570d9c42d4b45e4723293cb146.jpg
+10:30:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/xam__2__0c641474d6b347f8b50d1ef2a55ba4dc.jpg
+10:30:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/nau_nubo__1__046132ce2e374bbf957884404d05aefa.jpg
+10:30:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den_nubo_3_.jpg
+10:30:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/nau_nubo__2_.jpg
+10:30:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den_4_6a9dda390df448dd9625f017845e2e76.jpg
+10:31:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den__1__4b2452e043f04b8c926919a79d5f2d15.jpg
+10:31:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den__4__33b0ada348df4d20bcff0aff11b6eef1.jpg
+10:31:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/xanh_nuox__7_.jpg
+10:31:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/kem_5_2d0434db7e62404ca6e9e0a663a102d2.jpg
+10:31:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/kem_1_4dda35424252411b8451ee3ebeef0ec8.jpg
+10:38:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/do_1_2b230ed427774a54ad83b9900e7f51f5.jpg
+10:39:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_383c9cefd5ef46e5ae38d3eabbb6fc20.jpg
+10:39:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_b0baac44a33648bf955f32091dd65816.jpg
+10:45:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_bc51504b120e459cabf14bff29bba6c1.jpg
+10:45:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_fd2e5b9b5a074e148c9a8718fbd2c0a7.jpg
+10:45:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_d43cb58fe0e84e479f395d4ca825594d.jpg
+10:45:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_fd08ca3f0a794cb6b5ce34286b69a466.jpg
+10:45:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_4c096819be9a4fb69cb4561d61af614b.jpg
+10:45:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_9783a8ae14e04b6a929a87612a540070.jpg
+10:45:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_ba4cf73cb75d4cf7b8e039788c7c5eee.jpg
+10:45:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_cae222779bfe40d9b0eaa4634762097f.jpg
+10:45:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/fulld__2__06e76ed5c2a64928b6d7e059d802f8f4.jpg
+10:46:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den__3__7d09d0b51ba84c11952ad8fb60b34a35.jpg
+10:46:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/trang__5__b99362be0b8442bcb6b9eb4ca3c9d511.jpg
+10:46:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/xam__3__e1627fe0359d4d0e9d1f14341950527d.jpg
+10:47:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_36b59503070b455581a5f1a04aab6302.jpg
+10:47:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_cf05680c52404960a8bee1c6637563d6.jpg
+10:48:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_1c75323b60564b59803d54b288540641.jpg
+10:48:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_b09db14f4c684352ba2467f4e52405a8.jpg
+10:48:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_4e9e1bb45a5444c7b21790c5fc6a9c7a.jpg
+10:48:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_44ce8cdc630040deaaf8cbbeb3c149ef.jpg
+10:49:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_9fce7ec5da7947ea801e62db4b6bdda0.jpg
+10:49:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/xam__1__5ac051a5bd9a45d0b76a83ee63de0d24.jpg
+10:49:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/fulld_3.jpg
+10:57:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35901349_1679313768789759_5968241951286231040_n_grande.jpg
+10:57:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35884145_1679313815456421_675293984213434368_n_grande.jpg
+10:57:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35884115_1679313725456430_6639256786568216576_n_grande.jpg
+10:57:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35882682_1679313762123093_195006706537725952_n_grande.jpg
+10:57:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31776090_1627141364007000_244045973108555776_n_grande.jpg
+10:57:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31641951_1627141360673667_4295113281938391040_n_grande.jpg
+10:57:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31880939_1627946273926509_7273093641906683904_n_grande.jpg
+10:57:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31841460_1627946297259840_592218480506306560_n_grande.jpg
+11:00:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_6ffdd7988d3c4fc1b689040987546c18.jpg
+11:00:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_d91c6bca804d46f78b6e5104dcb77aef.jpg
+11:00:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den__4__f51cb5eef348475ba14d164b0ecb0237.jpg
+11:04:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xanh_1_b022fdcf4c9a4cd98e993250e06a519b_grande.jpg
+11:04:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_3_17f2231980f44785801bc9b19a20a729_grande.jpg
+11:04:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam_4_68b430dd316c460693db03c95659b265_grande.jpg
+11:04:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den__3__f4a649ba229543d68bd2e4ec6507402c_grande.jpg
+11:04:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam___4__5ee216b807d149aeb4ddb72ee9357232_grande.jpg
+11:04:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam___1__6130401705ab42a598bce9d5211dec5f_grande.jpg
+11:04:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den__3__ae92b21609d748fdad47629298831a84_grande.jpg
+11:04:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den__3__601a2e7ede2346a8b224af03c402bf40_grande.jpg
+11:04:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den__2__dbaa726238ed424287e572d987e5aff5_grande.jpg
+11:04:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam__4__70ec8e1c0dee44ffa56be3f76ae8badb_grande.jpg
+11:04:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/trang__2__83ec7d6be0b64a42849b1af599e3d96f_grande.jpg
+11:04:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/trang__1__98172cd85f7f491ba85a00830ff1d2b0_grande.jpg
+11:04:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den__3__0f8ff6b36c774b268cb456a38d112c4a_grande.jpg
+11:04:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_2_2250db13334d4b6ba38fd90d8c92067c_grande.jpg
+11:04:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_3_31b997287a864abd8b550fac42719670_grande.jpg
+11:04:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/nau_2_b3daf2a8ba5a448486435ef24b4195d3_grande.jpg
+11:04:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xanh_1_3dd9c4a5e0a64d5b9bd78c8b053eccc6_grande.jpg
+11:04:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/nau_4_e7a0293482a8475298fa921857a38f74_grande.jpg
+11:07:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/nau_3_2b52c387ed4b4548a602125e41aba488.jpg
+11:08:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35971009_1680874665300336_7413469700174118912_n_grande.jpg
+11:08:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35970831_1680874608633675_8539746666490626048_n_grande.jpg
+11:08:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35922850_1680874585300344_8672053146928807936_n_grande.jpg
+11:08:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/26996555_1525482897506181_1487127137_n_91bb64f8bcb244e597edf945fec59c5c_grande.jpg
+11:08:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/26914073_1525482900839514_1258941867_n_grande.jpg
+11:08:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/26857580_1525482887506182_1153513396_n_grande.jpg
+11:08:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den__6__74165dbf239a4e8bb5bcb17c3e890537_grande.jpg
+11:08:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den__4__daf295b063db44a1907ea28857049bc7_grande.jpg
+11:08:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den__1__723d59c9550d4e54a36a7fc6b585d23b_grande.jpg
+11:08:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/naud__7__grande.jpg
+11:08:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/naud__4__grande.jpg
+11:08:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/naud__3__grande.jpg
+11:08:27	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/naud__1__grande.jpg
+11:08:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den__6__69e03574b61b4e69b59b86e284eae8e0_grande.jpg
+11:08:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den__3__78b7372c29264a48af87d8c5a4a42392_grande.jpg
+11:08:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/ndam_1_6e2026b3a40a4fbdac1c5586c7277ad6_grande.jpg
+11:08:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/nau_1_245c0ede5ac24cd6bfce49c767ebb9c5_grande.jpg
+11:08:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_1_4bf273b2fdda4a9284f0d71bb9ca925f_grande.jpg
+11:11:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35114617_1680867511967718_2837101356735528960_n_grande.jpg
+11:11:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36114300_1680867471967722_8578028427259412480_n_grande.jpg
+11:11:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35923146_1680867635301039_1862489439511511040_n_grande.jpg
+11:11:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35553319_1674911869229949_4204487071106072576_n_grande.jpg
+11:11:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35547734_1674911832563286_5866626409497100288_n_grande.jpg
+11:11:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35272193_1669733563081113_7802029009121837056_n_grande.jpg
+11:11:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35285157_1669733516414451_415679012354916352_n_grande.jpg
+11:11:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35282790_1669733633081106_2893205797263638528_n_grande.jpg
+11:11:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35269609_1669733639747772_4323159650309505024_n_grande.jpg
+11:11:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35548052_1676999952354474_9183758170504298496_n_grande.jpg
+11:11:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35333703_1669732209747915_4553609595204927488_n_grande.jpg
+11:11:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35357153_1669732273081242_6985555399734722560_n_grande.jpg
+11:11:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35358639_1669732419747894_7892524631473520640_n_grande.jpg
+11:12:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34162882_1655607467827056_8841192815925919744_n_grande.jpg
+11:12:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34155935_1655607331160403_9072090416672669696_n_grande.jpg
+11:12:25	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34146457_1655607294493740_5877046154776018944_n_grande.jpg
+11:12:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34137594_1655607447827058_35991070026235904_n_grande.jpg
+11:12:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34103774_1655607487827054_4858099132696363008_n_grande.jpg
+11:12:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36611033_1750965701659214_1559715788699467776_n_grande.jpg
+11:12:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34559394_1659584794095990_6108271281138827264_n_grande.jpg
+11:12:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34367997_1655607224493747_3157048825122652160_n_grande.jpg
+11:12:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34258992_1655607121160424_2935584484386406400_n_grande.jpg
+11:12:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34207282_1655607267827076_4601278122963238912_n_grande.jpg
+11:12:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34190052_1655607157827087_4359606532329963520_n_grande.jpg
+11:12:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34162124_1655607134493756_709654143488229376_n_grande.jpg
+11:12:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34103732_1655607104493759_5566570171608334336_n_grande.jpg
+11:13:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_f5360e424bc44553b2994ec9d3cf56d5_grande.jpg
+11:13:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34035981_1653819391339197_2182393700527636480_n_grande.jpg
+11:13:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34033197_1653819504672519_73280139298865152_n_grande.jpg
+11:13:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34016188_1653819414672528_8785659893810987008_n_grande.jpg
+11:13:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/33994866_1653819384672531_251073248274415616_n_grande.jpg
+11:13:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/33994858_1653819491339187_3763249258128474112_n_grande.jpg
+11:13:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/33898756_1653819461339190_2989395936364462080_n_grande.jpg
+11:13:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31355350_1622400437814426_11254768525639680_n_grande.jpg
+11:13:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31432771_1622400357814434_3066502973128441856_n_grande.jpg
+11:13:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31404312_1622400531147750_2277762989773815808_n_grande.jpg
+11:13:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31369099_1622400517814418_646707107093020672_n_grande.jpg
+11:13:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31772951_1627167370671066_3070670165147385856_n_grande.jpg
+11:13:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31732527_1627167650671038_5182778327898783744_n_grande.jpg
+11:13:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31727662_1627167604004376_2722589922237087744_n_grande.jpg
+11:13:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31723412_1627167397337730_4832826475679842304_n_grande.jpg
+11:17:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/xanhl__3_.jpg
+11:17:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/trang__1__eaea2b85b7aa47ee9688cc130364efd5.jpg
+11:17:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den__5__df999e7f234d4bdd9305ce5b560fc79b.jpg
+11:17:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/kem__3__44bcdb31f6ff465ea8fe28a44fb551b7.jpg
+11:17:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den__1__82e88625b30a492ba488e9e7b5363ae0.jpg
+11:17:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/xanhl__1__62d0673d3a9e4a249e29b283f97e0d8e.jpg
+11:18:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36622912_1750976461658138_7519445393977901056_n_grande.jpg
+11:18:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36606380_1750976644991453_8560601726304911360_n_grande.jpg
+11:18:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36694764_1750976558324795_1888831573449506816_n_grande.jpg
+11:18:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36570780_1750976631658121_1504742595312484352_n_grande.jpg
+11:19:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35657266_1675279815859821_3819305006612348928_n_grande.jpg
+11:19:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35628984_1675279782526491_6461150419857965056_n_grande.jpg
+11:20:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35334658_1669630616424741_5227939539649036288_n_grande.jpg
+11:20:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35282763_1669630676424735_497925170762088448_n_grande.jpg
+11:20:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35247242_1669630669758069_6206549710648377344_n_grande.jpg
+11:20:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/32670262_1639110422810094_8274725593526829056_n_grande.jpg
+11:20:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/32511940_1639110479476755_5321578932032503808_n_grande.jpg
+11:20:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/32484642_1639110432810093_3827356511219220480_n_grande.jpg
+11:20:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/32332591_1639110426143427_4353470772115668992_n_grande.jpg
+11:22:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31950149_1630899290297874_4945344199244382208_n_grande.jpg
+11:22:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31949727_1630899253631211_995449917428203520_n_grande.jpg
+11:23:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31070860_1616617581726045_4914858680291164160_n_grande.jpg
+11:23:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31117767_1616617548392715_458113207635017728_n_grande.jpg
+11:23:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31093418_1616617675059369_7683323173986631680_n_grande.jpg
+11:25:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30729003_1612398515481285_7691194573434912768_n_grande.jpg
+11:25:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30726343_1612398548814615_8876322895333163008_n_grande.jpg
+11:25:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30738368_1614745041913299_3347902839451025408_n_grande.jpg
+11:25:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30709750_1612398455481291_2165073536236912640_n_grande.jpg
+11:25:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30709126_1612398408814629_6489347971077898240_n_grande.jpg
+11:25:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30739705_1609201222467681_3081717692911058944_n_grande.jpg
+11:25:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30713163_1609201315801005_6602395496038268928_n_grande.jpg
+11:31:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/upload_52667315d044489c8c5e42c436fe1249.jpg
+11:31:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den_2_3aa70b2c17cd49a393d36dea0c7a10bd.jpg
+11:31:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/xam_2_5859b083a1cb4c8bbedf68345e624222.jpg
+11:36:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36292076_1686975728023563_2071965057645805568_n_grande.jpg
+11:36:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36287653_1686976338023502_696783359157731328_n_grande.jpg
+11:37:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36053757_1680867675301035_2124975425208713216_n_grande.jpg
+11:37:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35130776_1680867621967707_139061428907671552_n_grande.jpg
+11:37:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35924513_1680867658634370_4892932825000443904_n_grande.jpg
+11:38:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36565380_1750986861657098_7466008119550672896_n_grande.jpg
+11:38:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36597892_1750986961657088_2319352390756597760_n_grande.jpg
+11:38:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36585538_1750986914990426_2292762746443268096_n_grande.jpg
+11:39:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35755960_1677001695687633_3965480997306236928_n_grande.jpg
+11:39:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35648764_1677001739020962_1359866648269422592_n_grande.jpg
+11:39:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35682190_1677001602354309_4345395194217103360_n_grande.jpg
+11:39:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35842435_1677001075687695_6859858337094172672_n_grande.jpg
+11:39:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35694833_1677001405687662_5296797271382294528_n_grande.jpg
+11:39:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35821870_1677001355687667_7331860317913219072_n_grande.jpg
+11:39:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35768436_1677001469020989_197214607490678784_n_grande.jpg
+11:39:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34963283_1663724950348641_7170506007284547584_n_grande.jpg
+11:39:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34849117_1663724907015312_6038994205978656768_n_grande.jpg
+11:39:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35123879_1663724890348647_8933744791309516800_n_grande.jpg
+11:39:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35026594_1663724913681978_2271423317397209088_n_grande.jpg
+11:40:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34859948_1663727690348367_1745395157710143488_n_grande.jpg
+11:40:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34559198_1663727753681694_432236373274001408_n_grande.jpg
+11:40:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34984318_1663727750348361_3920551000825397248_n_grande.jpg
+11:40:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34881921_1663727777015025_9160061027751034880_n_grande.jpg
+11:40:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35430802_2232977156742912_5075865248892715008_n_grande.jpg
+11:40:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35362858_2232977143409580_4604104409012502528_n_grande.jpg
+11:40:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35302324_2232977426742885_1396528111150956544_n_grande.jpg
+11:40:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35295404_2232977446742883_6075123457987706880_n_grande.jpg
+11:53:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36271681_1686461544741648_1153630633772187648_n_grande.jpg
+11:53:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36223106_1686461541408315_8572082865376854016_n_grande.jpg
+11:53:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36312402_1686461564741646_3166517342519689216_n_grande.jpg
+11:53:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36293795_1686461584741644_5256623556044783616_n_grande.jpg
+11:53:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36336020_1686446991409770_3246963286859579392_n_grande.jpg
+11:53:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/b_grande.jpg
+11:53:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36246657_1686446944743108_3894111332475076608_n_grande.jpg
+11:53:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36322770_1686446934743109_5425798576917708800_n_grande.jpg
+11:53:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36230971_1686745674713235_3124732267121868800_n_grande.jpg
+11:53:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36362014_1686745884713214_6628078550064824320_n_grande.jpg
+11:53:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36317610_1686745851379884_1994981368047599616_n_grande.jpg
+11:53:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36287239_1686745871379882_5967134682947518464_n_grande.jpg
+11:53:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35924594_1680868488634287_7720694981509251072_n_grande.jpg
+11:53:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35973230_1680868421967627_5204279148930924544_n_grande.jpg
+11:53:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36087577_1680868378634298_8010360843105468416_n_grande.jpg
+11:53:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36063246_1680868331967636_1825381398815440896_n_grande.jpg
+11:55:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/kem__2__8c9f7735a7424514b870dda596ac78aa.jpg
+11:55:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den__2__bc3523753b5946efa124c2c1bd516aea.jpg
+11:55:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den_3_e962fe27c0d743dc883fc073b43be362.jpg
+11:55:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/xanhr__1__80d414d7960e476c93ad6f7d2b4284ea.jpg
+11:56:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36482422_1693414297379706_7419799253607776256_n_grande.jpg
+11:56:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_2_ad838c02a6d1466290cd73fdee493bba_grande.jpg
+11:56:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/trang_2_a092ad2a4b1d47909f372e44f71c85af_grande.jpg
+11:56:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/trang_3_f28881bea9a44cafb5c486baa261ac16_grande.jpg
+11:56:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_h__3__58c7eef7b6dd477da33c4ef703ad812f_grande.jpg
+11:56:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_h__4__grande.jpg
+11:56:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/kem_h__3__grande.jpg
+11:56:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/trang_h__1__c9d4797fc668450c99ef3df14aaa5f79_grande.jpg
+11:56:52	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam_h__1__grande.jpg
+11:56:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/trang_h__3__cf027ed23be1446d9cd9fda275530cc9_grande.jpg
+11:57:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35058350_1663718710349265_627853888585728000_n_grande.jpg
+11:57:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/34899000_1663718677015935_5205317766512377856_n_grande.jpg
+11:57:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_tron__1__grande.jpg
+11:57:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_tron__3__grande.jpg
+11:57:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/trang_tron__2__grande.jpg
+11:57:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/trang_tron__3__grande.jpg
+11:57:04	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam_tron__2__grande.jpg
+11:57:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam_tron__3__grande.jpg
+11:57:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/32207611_1635522483168888_3222942810378338304_n_grande.jpg
+11:57:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/32222238_1635522393168897_417317267500433408_n_grande.jpg
+11:57:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/32283702_1635522463168890_8871430498086289408_n_grande.jpg
+11:57:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35564306_1674912209229915_1877550751652249600_n_grande.jpg
+11:57:30	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35666918_1674912235896579_9021674544363995136_n_grande.jpg
+11:57:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30724993_1614744728579997_8355351368147402752_n_grande.jpg
+11:57:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30742922_1614744915246645_7055935684489510912_n_grande.jpg
+11:57:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30739027_1614744918579978_2893880974712504320_n_grande.jpg
+11:57:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30581767_1604794792908324_6183207546942128128_o_grande.jpg
+11:57:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30516332_1604794742908329_3778254404981882880_o_grande.jpg
+11:57:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30442637_1604794696241667_3141647944277557248_o_grande.jpg
+11:57:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30411696_1604794782908325_2260217696182337536_o_grande.jpg
+11:58:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/trang_lv__2__grande.jpg
+12:00:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xanhl__1__7c5e051231914db881c520e62775f1cb_grande.jpg
+12:00:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_no__2__4c2b4175706a42cba14c372a2be75f5b_grande.jpg
+12:00:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_no__4__1c591b14196d41c78a34d59a2c3651ae_grande.jpg
+12:00:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/hong_no__3__grande.jpg
+12:00:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam_no__3__3fcbe60b21874c18b32876711e140c91_grande.jpg
+12:00:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam_no__6__grande.jpg
+12:00:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xanhreu_no__2__541033380c0b49c188917fe068eb1202_grande.jpg
+12:01:32	Error: 	"Not Found" (404) at link mwc.com.vn/blogs/~/Themes/images/logo.png (from mwc.com.vn/blogs/gioi-thieu)
+12:01:32	Error: 	"Not Found" (404) at link mwc.com.vn/Upload/Resources/Post/2018/10/41318495-274406083396946-4688814392588894208-n.jpg (from mwc.com.vn/blogs/gioi-thieu)
+12:01:32	Error: 	"Not Found" (404) at link mwc.com.vn/Upload/Resources/Post/2018/10/42692980-1983193741704164-4233410544813473792-n.jpg (from mwc.com.vn/blogs/gioi-thieu)
+12:01:32	Error: 	"Not Found" (404) at link mwc.com.vn/Upload/Resources/Post/2018/10/43019916-166724380905835-1285384261725061120-n.jpg (from mwc.com.vn/blogs/gioi-thieu)
+12:01:32	Error: 	"Not Found" (404) at link mwc.com.vn/Upload/Resources/Post/2018/10/42933037-1755799074542448-1331364669767548928-n.jpg (from mwc.com.vn/blogs/gioi-thieu)
+12:01:32	Error: 	"Not Found" (404) at link https://mwc.com.vn//Upload/Resources/Post/2018/10/43604303-549510262153964-3063362462976835584-n.jpg (from mwc.com.vn/post/sale-lon-don-le--mua-ngay-keo-tre)
+12:01:32	Error: 	"Not Found" (404) at link https://mwc.com.vn//Upload/Resources/Post/2018/11/45166358-472261583266385-5961882874247380992-n.jpg (from mwc.com.vn/post/tung-bung-khai-truong-chi-nhanh-do-an-giam-15-50-tat-ca-cac-san-pham)
+12:02:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35757475_1677000452354424_5361702069835137024_n_grande.jpg
+12:02:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35698359_1677000775687725_8323822928055500800_n_grande.jpg
+12:02:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35648701_1677000409021095_1679392368047947776_n_grande.jpg
+12:02:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35629323_1677000379021098_5145341816693850112_n_grande.jpg
+12:03:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/32267497_1636010666453403_6559349469781950464_n_grande.jpg
+12:03:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/32262769_1636010553120081_8047358412947718144_n_grande.jpg
+12:03:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/32267089_1636010569786746_3171282746173554688_n_grande.jpg
+12:03:30	Error: 	"Not Found" (404) at link https://mwc.com.vn//Upload/Resources/Post/2018/11/45501805-183729499180093-8252114493383901184-n.jpg (from mwc.com.vn/post/bo-suu-tap-boot-sanh-dieu-mua-cuoi-nam-cho-nang-tai-mwc)
+12:03:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31064370_1616872311700572_2528240113767415808_n_grande.jpg
+12:03:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31195620_1619322914788845_1395156646488965120_n_grande.jpg
+12:03:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31179910_1619322824788854_5908698637818396672_n_grande.jpg
+12:03:41	Error: 	"Not Found" (404) at link https://mwc.com.vn//Upload/Resources/Post/2018/10/42864446-1890767364551794-89668338636029952-n.jpg (from mwc.com.vn/post/sandal-cao-got-kim-tuyen--hot-item-thang-10)
+12:04:30	Error: 	"Not Found" (404) at link https://mwc.com.vn//Upload/Resources/Post/2018/10/43242519-2384002381614940-7001197954094596096-n.jpg (from mwc.com.vn/post/happy-womens-day-sale-up-to-50-uu-dai-lon-nhat-thang-10)
+12:04:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/kem_7.jpg
+12:04:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_1_72bc1c184f4446c9880438eb89c67060_grande.jpg
+12:04:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_4_ce2ab96cf9214d86b9a3330646d88ccd_grande.jpg
+12:04:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/kem_2_00ad081dd6654317ab8b0766c39243df_grande.jpg
+12:04:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/kem_3_1baeb79924244533af5d8c819e3a868d_grande.jpg
+12:04:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/kem_1_12a8e451660a4749a6c3f34b0c63927b_grande.jpg
+12:05:00	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den__1__d5066ef9fb4547d987b5777ee57de6b3_grande.jpg
+12:05:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xanh__2__eb9d9eca39bf491a8e244414044f0ed6_grande.jpg
+12:05:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den__3__3e603514ba2d4935b9a626af25e1c9a4_grande.jpg
+12:05:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam_3039_grande.jpg
+12:06:07	Error: 	"Not Found" (404) at link https://mwc.com.vn//Upload/Resources/Post/2018/11/45726680-476059596220176-66847218887294976-n.jpg (from mwc.com.vn/post/ngan-ngo-voi-bo-suu-tap-giay-oxford-cuc-xinh-cho-nang-dao-pho)
+12:06:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_2_95dc721152f242bb988281599fe0614c_grande.jpg
+12:06:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_4_db120d8524c1441180d50b60800ccb95_grande.jpg
+12:06:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam_6_4a09547a7c2e4d759de84220b879e1f0_grande.jpg
+12:06:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam_5_e2e0c2bdbd554589b4be82850124d862_grande.jpg
+12:06:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam_4_fc6500f94af944a59b21d45a396e940a_grande.jpg
+12:06:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/kem_5_a62dee3b958d48339d92ccae5af46459_grande.jpg
+12:06:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/kem_3_a559e9eb237c4f89be87638c4f2217e5_grande.jpg
+12:06:12	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/kem_4_990f15be232c4223a740dac96fa62f3f_grande.jpg
+12:06:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35921693_1680869061967563_6330549848890146816_n_grande.jpg
+12:06:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35963852_1680868818634254_7564093520345038848_n_grande.jpg
+12:06:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/36003228_1680869008634235_7075468697535512576_n_grande.jpg
+12:06:16	Error: 	"Not Found" (404) at link https://mwc.com.vn//Upload/Resources/Post/2018/10/43335418-468882456939862-5202305388120113152-n.jpg (from mwc.com.vn/post/sieu-re-voi-bo-suu-tap-giay-gia-chi-69k)
+12:06:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31963819_1630901290297674_5724180782583382016_n_grande.jpg
+12:06:21	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31946896_1630901363631000_3160897575381368832_n_grande.jpg
+12:06:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31947873_1630901673630969_474123999605948416_n_grande.jpg
+12:06:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31531793_1630901426964327_2401816535933911040_n_grande.jpg
+12:06:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31944938_1630901106964359_5076657099128176640_n_80a274fc5c7e464281af9ffda854ddc1_grande.jpg
+12:06:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31944169_1630901173631019_3952276841909190656_n_da89d76f967f4d8c82f1bb4b7514c79b_grande.jpg
+12:06:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31946384_1630901156964354_621851521465712640_n_f143e46e60564bb3b51029e8c232bcfd_grande.jpg
+12:06:29	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/31958792_1630901203631016_4878137633328332800_n_e98f898738eb42fd96d015de423a421e_grande.jpg
+12:06:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/trang__3__2211b7c619a044c39a7eff063c38c915_grande.jpg
+12:06:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xanh_l__2__grande.jpg
+12:06:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/trang__2__52372d2721bf4d9ca28eb0388119dcd3_grande.jpg
+12:06:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam__2__25e58402a4334ed699cf7b69a3023c2d_grande.jpg
+12:06:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den__3__8ec4f42637f34f499957758c4d72b4ec_grande.jpg
+12:06:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/258801__11_14_12_22____79k_grande.jpg
+12:06:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xanhl__5__7f3851b312c94cf094675ce07b91fb41_grande.jpg
+12:06:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xanhl__2__7272c81d17c8413284447936e8083449_grande.jpg
+12:06:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/trang__3__5e155485deb647ab8a563e504fc20eab_grande.jpg
+12:06:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/trang__2__3687c405418e408fbcd1cb22efd7fb3d_grande.jpg
+12:06:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/nau__3__834600f99846446d8a22b0bf94e38f1c_grande.jpg
+12:06:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_xanhl_nau_trang__2__grande.jpg
+12:06:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_xanhl_nau_trang__1__grande.jpg
+12:06:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den__1__40a9011c12704e669c81ec40fbe5c66e_grande.jpg
+12:06:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xanhl__3__c49c05b9611441dc89a7699363443bed_grande.jpg
+12:06:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/trang__2__2819f7d4b28842aead758e5e0ee042d3_grande.jpg
+12:06:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xanhl__2__5435965ab970451a8b54974ae84d3554_grande.jpg
+12:06:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den__2__5a58abd37713422595f1851c1f046f0c_grande.jpg
+12:06:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_bac__2__grande.jpg
+12:06:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den__3__38c3646a33fc49979ea98497ea0624b2_grande.jpg
+12:06:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den__2__082b03eb5ed049d09a1e324451c62091_grande.jpg
+12:06:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/bac__2__08892f6206b54b72b5d29b3330417970_grande.jpg
+12:06:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_2_f7f3896c66c94467bc4494830a8632f6_grande.jpg
+12:06:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_4_8180e1e119834860bd6bf05a181ece2d_grande.jpg
+12:06:49	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam_2_d3d2bc8004d349d68244d116ef1d7876_grande.jpg
+12:06:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_2_67404043c9b048d885c5e227062a3cd4_grande.jpg
+12:06:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam_2_2ebb70fa5a4a45c88f7a8458f7e880ee_grande.jpg
+12:06:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam_5_75c8e5c10aa44c7f9c744004e41d8eff_grande.jpg
+12:06:51	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam_1_6f95f53615984422ad28e93149256873_grande.jpg
+12:07:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/32235364_1635523029835500_6520585994071179264_n_grande.jpg
+12:07:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/32215393_1635523009835502_1757166554966917120_n_grande.jpg
+12:07:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_5_b649dc918446492388c2e48b8aaba759_grande.jpg
+12:07:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam_1_c779b2bc76524db7bfdb019433335009_grande.jpg
+12:07:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_1_2f945cb73e2d45ba8c992962a7c5af64_grande.jpg
+12:07:43	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/08/tb2ustaj5cybunkhfccxxchtvxa-2888592518.jpg (from mwc.com.vn/products/dep-nu-mwc-nude--3118?c=)
+12:07:46	Error: 	"Not Found" (404) at link mwc.com.vn/products/~/Themes/images/logo.png (from mwc.com.vn/products/dep-nu-mwc-nude--3118?c=)
+12:07:58	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/o1cn012cuyjcdynzennw3-766428478.jpg (from mwc.com.vn/products/dep-nu-mwc-nude--3133?c=)
+12:07:58	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/45720664-734303320261254-1145060378720337920-n.jpg (from mwc.com.vn/products/giay-bup-be-mwc-nubb--2139?c=)
+12:07:58	Error: 	"Bad Request" (400) at link https://mwc.com.vn/http://product.hstatic.net/1000209190/product/nau__1__615dbb48c44a46efab7b110a8ee95676.jpg (from mwc.com.vn/products/giay-oxford-mwc-nuox--4523-1670?c=)
+12:08:01	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/45633458-2367932326767345-3738761214327521280-n.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4062?c=%c4%90EN)
+12:08:01	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/o1cn0129as5ux4j4kdsc9-3987658028.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4062?c=N%c3%82U)
+12:08:01	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/45617295-716126252093582-8332210187435769856-n.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4061?c=X%c3%81M)
+12:08:01	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/45527657-291720665013572-8027152357051596800-n.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4061?c=N%c3%82U)
+12:08:02	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/45502982-1896813940396146-5037122084082286592-n.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4061?c=%c4%90EN)
+12:08:02	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/45677039-1808112959314937-1229549596682747904-n.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4060?c=%c4%90EN)
+12:08:02	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/45669412-252432222291620-7289371847131398144-n.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4060?c=N%c3%82U)
+12:08:02	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/o1cn012blyvdfs3yevb1b-3086568323.jpg (from mwc.com.vn/products/dep-nu-mwc-nude--3133?c=H%e1%bb%92NG)
+12:08:02	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/o1cn012cuyjb9kxtgo6o1-766428478-b79f3529-6d47-4ec4-9059-4597bda36d1d.jpg (from mwc.com.vn/products/dep-nu-mwc-nude--3133?c=X%c3%81M)
+12:08:02	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/tb2sylagbstmejjsszgxxacpfxa-2021363250.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0255?c=%c4%90EN)
+12:08:02	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/tb2uprmghvpk1rjszfqxxcxuvxa-3364531476.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0255?c=XANHR)
+12:08:02	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/o1cn011zw6hc5pp15o7ot-3174853201-3f0088fc-b619-4215-a341-a769e55a0afe.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4059?c=%c4%90EN)
+12:08:02	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/o1cn011yoknuwhlfi9qh3-0-item-pic.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4059?c=N%c3%82U)
+12:08:02	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/o1cn0125ots0fbu7be507-2558847573.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4058?c=%c4%90EN)
+12:08:02	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/o1cn0125otsg4qnh2ls0b-0-item-pic.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4058?c=N%c3%82U)
+12:08:02	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/45710553-1744589902316060-8938847822342520832-n.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4057?c=N%c3%82U)
+12:08:02	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/45596868-254297165265560-6813228074729996288-n.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4057?c=%c4%90EN)
+12:08:02	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/45674719-184704712436314-3494654613460615168-n.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4057?c=X%c3%81M)
+12:08:02	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/o1cn011tcccwfmb7c0iwd-2421092403.jpg (from mwc.com.vn/products/giay-oxford-mwc-nuox--4538?c=N%c3%82U)
+12:08:02	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/tb2lcizlh1ybunjsszexxablfxa-1047169485.jpg (from mwc.com.vn/products/giay-oxford-mwc-nuox--4538?c=%c4%90EN)
+12:08:02	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/tb2746udxutbunkhfnrxxc9qpxa-1047169485.jpg (from mwc.com.vn/products/giay-oxford-mwc-nuox--4538?c=TR%e1%ba%aeNG)
+12:08:03	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/tb2expmcqagskjjy0fgxxcrqfxa-2557601979.jpg (from mwc.com.vn/products/giay-bup-be-mwc-nubb--2140?c=%c4%90EN)
+12:08:03	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/tb2zdlqczuhskjjsspjxxci8vxa-2557601979.jpg (from mwc.com.vn/products/giay-bup-be-mwc-nubb--2140?c=X%c3%81M)
+12:08:03	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/o1cn011o3jyjzp5z814v9-4156421650.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4056?c=%c4%90EN)
+12:08:03	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/o1cn012byuazjnix506vu-1870788408.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4056?c=X%c3%81M)
+12:08:03	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/o1cn012byuaft97el25qq-0-item-pic.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4056?c=N%c3%82U)
+12:08:03	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/tb23rowwyqnbknjszfmxxcapvxa-3334266301.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4055?c=N%c3%82U)
+12:08:03	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/o1cn011wpu4cmpphxwu7n-3334266301.jpg (from mwc.com.vn/products/giay-boot-nu-mwc-nubo--4055?c=%c4%90EN)
+12:08:03	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/45619154-293847734570388-1716875376568827904-n.jpg (from mwc.com.vn/products/giay-cao-got-mwc-nucg--3733?c=KEM)
+12:08:03	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/45787779-200186567452734-5541664017036083200-n.jpg (from mwc.com.vn/products/giay-cao-got-mwc-nucg--3733?c=%c4%90EN)
+12:08:03	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/45522224-200045687560434-591913310195023872-n-b1ff0a7f-34f6-4644-b131-07e26dc5443b.jpg (from mwc.com.vn/products/giay-sandal-nu-mwc-nusd--2658?c=TR%e1%ba%aeNG)
+12:08:03	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/45425586-576078689495016-1091614312495054848-n-02eb250c-ffe2-4a71-aaa1-aa7bcb935595.jpg (from mwc.com.vn/products/giay-sandal-nu-mwc-nusd--2658?c=%c4%90EN)
+12:08:03	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/45593399-112662173006079-5835763869724704768-n.jpg (from mwc.com.vn/products/giay-cao-got-mwc-nucg--3735?c=%c4%90EN)
+12:08:03	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/45410442-188049368747800-4857791784836661248-n.jpg (from mwc.com.vn/products/giay-cao-got-mwc-nucg--3735?c=XANHR)
+12:08:03	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/tb24byzpr5ybunjsspoxxbenfxa-2981550935.jpg (from mwc.com.vn/products/giay-slipon-nu-mwc-nusl--1555?c=%c4%90EN)
+12:08:03	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/tb2yuycccbybenjy0fexxbnmfxa-848109235.jpg (from mwc.com.vn/products/giay-slipon-nu-mwc-nusl--1555?c=TR%e1%ba%aeNG)
+12:08:03	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/o1cn011vv6xfldbj4qutg-0-item-pic.jpg (from mwc.com.vn/products/giay-slipon-nu-mwc-nusl--1554?c=%c4%90EN)
+12:08:04	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/o1cn0124dety4ogkampwg-314747414.jpg (from mwc.com.vn/products/giay-slipon-nu-mwc-nusl--1554?c=%c4%90%e1%bb%94)
+12:08:04	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/11/45647396-199089691011270-869497566226546688-n.jpg (from mwc.com.vn/products/giay-cao-got-mwc-nucg--3734?c=KEM)
+12:08:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/bac_106_grande.jpg
+12:08:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/vang_109_grande.jpg
+12:08:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_40_grande.jpg
+12:08:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35268164_1669733103081159_3965726609306025984_n_grande.jpg
+12:08:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_39_grande.jpg
+12:08:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_92_grande.jpg
+12:08:32	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_43_grande.jpg
+12:08:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_500_grande.jpg
+12:08:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_116_grande.jpg
+12:08:36	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_76_grande.jpg
+12:08:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/trang_79_grande.jpg
+12:08:38	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/kem_75_grande.jpg
+12:08:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30442866_1604795449574925_4234153926343000064_o_grande.jpg
+12:08:43	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/35847111_1676998685687934_8555079351844995072_n_grande.jpg
+12:08:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30442504_1604795399574930_236720519838171136_o_grande.jpg
+12:08:44	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30441141_1604795309574939_6737017560849448960_o_grande.jpg
+12:08:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30440884_1604795326241604_7213811359371231232_o_grande.jpg
+12:08:45	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/30414536_1604795286241608_5706665480748531712_o_grande.jpg
+12:08:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_nucg__4__grande.jpg
+12:08:55	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_nucg__3__grande.jpg
+12:08:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_nucg__1__grande.jpg
+12:09:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/hong_1_dad218d365764ebe904b1aaea8725333_grande.jpg
+12:09:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/nau_1_364afe074fc94582a93bf76082c3a105_grande.jpg
+12:09:06	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_2_de527ff932ff4d93942919b8069a3154_grande.jpg
+12:09:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/nau_2_3d223d2597ac4eb4bec211b215148755_grande.jpg
+12:09:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam_2_0f6cbf7835af4c60bd8f1bb59b56a25b_grande.jpg
+12:09:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/xam_4_a4326f81034a4a919901428214b80bd2_grande.jpg
+12:09:18	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_97_8c839126a4f34eeea58b4fa230b4324b_grande.jpg
+12:09:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_98_6d10880926c04009b7678993efa24079_grande.jpg
+12:09:19	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/do_do_4_grande.jpg
+12:09:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/do_do_6_grande.jpg
+12:09:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/nau_84_grande.jpg
+12:09:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/den_85_grande.jpg
+12:09:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/kem_82_grande.jpg
+12:09:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://file.hstatic.net/1000209190/file/kem_83_grande.jpg
+12:10:37	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den__5__ee7b4c2bc1714596bc30fafe940a22df.jpg
+12:10:53	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den__4__8b684bcef6194c26aa018654d2bb6e2f.jpg
+12:10:57	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den__3__a8ea9d7df9f0425db29ce603811e57d4.jpg
+12:12:24	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/hong_2_8ab54a91b7c04c569b060e19c8cd05c1.jpg
+12:12:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/xam_4_583b33a8357342db9a5476bdc9d29c19.jpg
+12:12:40	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/xam_2_79506163662642c3bbdae9ca5edcf241.jpg
+12:12:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den_3_564186a038d843018b69aebe19a07221.jpg
+12:12:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/kem_2.jpg
+12:12:46	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): product.hstatic.net/1000209190/product/den_3_4bf0b15e9afc464ea304f14c3ca5ad36.jpg
+12:12:48	Error: 	Exit requested by shell or user
+12:12:48	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-cao-got-mwc-nucg--3567-2198?c=%c4%90EN
+12:12:48	Warning: 	File not added due to mirror cancel: product.hstatic.net/1000209190/product/upload_b3c7ab114dc7444db001c9e120c1f1aa.jpg
+12:12:48	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-cao-got-mwc-nucg--3567-2198?c=KEM
+12:12:48	Warning: 	File not added due to mirror cancel: product.hstatic.net/1000209190/product/upload_88ced360b9d94102b46ca7fc3ce4bfb4.jpg
+12:12:48	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-cao-got-mwc-nucg--3564-2196?c=XANH
+12:12:48	Warning: 	File not added due to mirror cancel: product.hstatic.net/1000209190/product/upload_735f6ec6dcf743f6b2a22df7c69e824d.jpg
+12:12:48	Warning: 	File not added due to mirror cancel: product.hstatic.net/1000209190/product/upload_8d68cf9edca04884a0bbca46feb15a79.jpg
+12:12:48	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-cao-got-mwc-nucg--3564-2196?c=TR%e1%ba%aeNG
+12:12:48	Warning: 	File not added due to mirror cancel: product.hstatic.net/1000209190/product/upload_e82b6da5e38f4647a8a88aab62c66c22.jpg
+12:12:48	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-cao-got-mwc-nucg--3564-2196?c=%c4%90EN
+12:12:48	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-cao-got-mwc-nucg--3563-2195?c=X%c3%81M
+12:12:48	Warning: 	File not added due to mirror cancel: product.hstatic.net/1000209190/product/upload_fb1b3a2efc9c4a319de1d7ca4039d323.jpg
+12:12:48	Warning: 	File not added due to mirror cancel: product.hstatic.net/1000209190/product/upload_ea6f5432fefc43f4b42f9d51ef03d082.jpg
+12:12:48	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-cao-got-mwc-nucg--3563-2195?c=%c4%90EN
+12:12:48	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-cao-got-mwc-nucg--3562-2194?c=%c4%90EN
+12:12:48	Warning: 	File not added due to mirror cancel: product.hstatic.net/1000209190/product/upload_80ca4b9cced2499298b0f24cd28fdb38.jpg
+12:12:48	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-cao-got-mwc-nucg--3562-2194?c=KEM
+12:12:48	Warning: 	File not added due to mirror cancel: product.hstatic.net/1000209190/product/kem__3__8d93e538af2b4456bb75ddfc9fec48d4.jpg
+12:12:48	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-cao-got-mwc-nucg--3562-2194?c=X%c3%81M
+12:12:48	Warning: 	File not added due to mirror cancel: product.hstatic.net/1000209190/product/upload_85f1f33291e7446c8ab58555364e6571.jpg
+12:12:48	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-cao-got-mwc-nucg--3559-2192?c=V%c3%80NG
+12:12:48	Warning: 	File not added due to mirror cancel: product.hstatic.net/1000209190/product/upload_67056c2b00f34653892a0cf656646b0f.jpg
+12:12:48	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-cao-got-mwc-nucg--3559-2192?c=%c4%90EN
+12:12:48	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-cao-got-mwc-nucg--3559-2192?c=B%e1%ba%a0C
+12:12:48	Warning: 	File not added due to mirror cancel: product.hstatic.net/1000209190/product/upload_70edb5a05da7412bae307f4d7dc50e50.jpg
+12:12:48	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-cao-got-mwc-nucg--3556-2189?c=%c4%90EN
+12:12:48	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-cao-got-mwc-nucg--3600-2218?c=XANHL
+12:12:48	Warning: 	File not added due to mirror cancel: img.mwc.com.vn/giay-thoi-trang?&w=450&h=450&FileInput=/Upload/2018/05/xanh-10-grande.jpg
+12:12:49	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/tb2pl8fxsrqk1rjszk9xxxyypxa-697710881.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0254?c=CAM)
+12:12:49	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/tb2ht4zwnqwbknjszfxxxcplpxa-4011691571.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0254?c=%c4%90EN)
+12:12:49	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/o1cn012kkuwfxebytr9oe-2252089539.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0253?c=%c4%90%e1%bb%8e)
+12:12:49	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/tb23lakeztpk1rjszkpxxa3upxa-4001530783.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0253?c=X%c3%81M)
+12:12:49	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/o1cn011be0ksqtsmdwbvq-3953793489.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0251?c=FULL%c4%90)
+12:12:49	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/o1cn011be0kres4fdqiv3-3953793489.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0251?c=TR%e1%ba%aeNG)
+12:12:49	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/o1cn011m12ppmrjzgqgtt-2827784893.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0251?c=FULLH)
+12:12:49	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/44153188-2493893793984579-1563527000944017408-n-539c2ea4-0919-4277-a6cc-c5c71b5fb29b.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0250?c=TR%e1%ba%aeNG)
+12:12:49	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/tb2yhtpxjknbknjszkpxxx6ofxa-2341308329.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0249?c=%c4%90EN)
+12:12:49	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/tb2xunha1ysbunjy1zdxxxpxfxa-2341308329.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0249?c=%c4%90%e1%bb%8e%20%c4%90%c3%94)
+12:12:49	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/tb2q4mmhr4npufjszfmxxxl4fxa-678391467.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0248?c=%c4%90EN)
+12:12:49	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/tb27tl8hypnpufjszfixxxh2vxa-678391467.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0248?c=H%e1%bb%92NG)
+12:12:49	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/45075676-2053587311547408-4741918514992906240-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0247?c=%c4%90EN)
+12:12:49	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/45097823-1939021646392362-7845951397685100544-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0247?c=H%e1%bb%92NG)
+12:12:49	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/45077216-264197461112473-7143278654817042432-n-4b441ede-1499-4aa1-8910-5da9c200d53b.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0247?c=XANHB)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/45093808-509234256261007-1476955432512651264-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0246?c=%c4%90EN)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/45046215-350919279008047-8023681478015582208-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0246?c=TR%e1%ba%aeNG)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/45085054-1055300054650666-4291809374050975744-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0246?c=%c4%90%e1%bb%8e)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/09/42703683-498005700668542-5716784732935553024-n-addac2bf-c23f-4794-b231-320576222a3b.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0244?c=XANHB)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/09/42730844-325744524852902-1320848360738914304-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0244?c=H%e1%bb%92NG)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/09/42731829-497844774028510-7078976191167725568-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0244?c=TR%e1%ba%aeNG)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/09/42719829-1188928041263874-1921625392511188992-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0244?c=%c4%90EN)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/09/42572717-241777646509302-353833965783613440-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0243?c=XANHL)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/09/42500404-1203545556437365-2934543663486730240-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0243?c=%c4%90EN%20%c4%90)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/09/42570095-2184470758498480-7438456174929772544-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0243?c=CAM)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/09/41970996-259238951597422-5185407397639749632-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0242?c=%c4%90EN)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/09/41954796-298932930695152-6619090953040822272-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0242?c=H%e1%bb%92NG)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/09/42142849-558818787889880-7701209599650562048-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0242?c=X%c3%81M)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/09/42058414-531601900621267-2406221961198829568-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0241?c=%c4%90%e1%bb%8e)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/09/41961427-347472709358519-3927370614322495488-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0241?c=%c4%90EN)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/09/42044893-468335933660648-4601842464486064128-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0241?c=H%e1%bb%92NG)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/09/41903757-458460997894416-8730067138506653696-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0240?c=H%e1%bb%92NG)
+12:12:50	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/09/42107465-307931443125062-4076329730939289600-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0240?c=TR%e1%ba%aeNG)
+12:12:51	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/09/42130621-1888414804788832-8366587367665958912-n.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0240?c=%c4%90EN)
+12:12:51	Error: 	"Not Found" (404) at link https://mwc.com.vn///Upload/2018/10/o1cn011mr8zanhilg4r7v-4022134950.jpg (from mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0240?c=XANHL)
+12:12:51	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0239?c=%C4%90EN
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn///Upload/2018/09/41398867-2442567375964463-3417744522421993472-n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: img.mwc.com.vn/giay-thoi-trang?&w=600&h=600&FileInput=//Upload/2018/09/41398867-2442567375964463-3417744522421993472-n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: img2.mwc.com.vn/giay-thoi-trang?&w=150&h=150&FileInput=//Upload/2018/09/41398867-2442567375964463-3417744522421993472-n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: img2.mwc.com.vn/giay-thoi-trang?&w=150&h=150&FileInput=//Upload/2018/09/41454964-1935200603439350-9015329099551342592-n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: img2.mwc.com.vn/giay-thoi-trang?&w=150&h=150&FileInput=//Upload/2018/09/41499509-240293893330964-9142841000622817280-n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://static.xx.fbcdn.net/images/emoji.php/v9/f52/1.5/16/1f48e.png
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/5146/6570/6564/6570/7556/7555/6047/2123/0239/41398867_2442567375964463_3417744522421993472_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/5146/6570/6564/6570/7556/7555/6047/2123/0239/41453385_243838932986368_4128949956557930496_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/5146/6570/6564/6570/7556/7555/6047/2123/0239/41454964_1935200603439350_9015329099551342592_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/5146/6570/6564/6570/7556/7555/6047/2123/0239/41460058_325988214890387_1104924751152807936_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/5146/6570/6564/6570/7556/7555/6047/2123/0239/41460118_961210937412826_8318365265867833344_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/5146/6570/6564/6570/7556/7555/6047/2123/0239/41490572_189856208472070_5852397006751793152_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/5146/6570/6564/6570/7556/7555/6047/2123/0239/41499509_240293893330964_9142841000622817280_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/5146/6570/6564/6570/7556/7555/6047/2123/0239/41631450_440439069816801_1130085683185057792_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/5146/6570/6564/6570/7556/7555/6047/2123/0239/41636664_322995995139987_6724149340614426624_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/5146/6570/6564/6570/7556/7555/6047/2123/0239/41661534_328403714571699_8151572122188120064_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/41129152_557807614638013_1564895871445762048_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/41312958_1973092462711569_4688875217915740160_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/41340182_677396789313563_2022579307473272832_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/41348500_710434032643071_4150761952265633792_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/41360595_735461410140756_1293585312798212096_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/41365720_1535562579876499_3167715659870109696_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/41387974_279864745954416_5522824697042960384_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/41403479_324043994821034_2680623912751988736_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn/FolderUpload/1/3127/2646/2646/3127/0237/5133/8021/6565/7555/7556/6569/6564/0239/41432044_259631258032468_8824591199663816704_n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0239?c=X%C3%81M
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn///Upload/2018/09/41454964-1935200603439350-9015329099551342592-n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: img.mwc.com.vn/giay-thoi-trang?&w=600&h=600&FileInput=//Upload/2018/09/41454964-1935200603439350-9015329099551342592-n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0239?c=%C4%90%E1%BB%8E%20%C4%90
+12:12:51	Warning: 	File not added due to mirror cancel: https://mwc.com.vn///Upload/2018/09/41499509-240293893330964-9142841000622817280-n.jpg
+12:12:51	Warning: 	File not added due to mirror cancel: img.mwc.com.vn/giay-thoi-trang?&w=600&h=600&FileInput=//Upload/2018/09/41499509-240293893330964-9142841000622817280-n.jpg
+12:12:51	Warning: 	Retry after error 500 (Internal Server Error) at link mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0238?c=%c4%90EN (from mwc.com.vn/collections/giay-thoi-trang?&page=2)
+12:12:51	Error: 	Exit requested by shell or user
+12:12:51	Error: 	"" (-1) at link mwc.com.vn/products/giay-the-thao-nu-mwc-nutt--0238?c=%c4%90%e1%bb%8e%20%c4%90 (from mwc.com.vn/collections/giay-thoi-trang?&page=2)
+12:12:51	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 hours 4 minutes 13 seconds : 10025 links scanned, 9053 files written (822898690 bytes overall), 4066 files updated [358600166 bytes received at 48114 bytes/sec], 1294 bytes transferred using HTTP compression in 1 files, ratio 93%, 1.0 requests per connection
+(123 errors, 465 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]

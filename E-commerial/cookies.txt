@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.subiz.com	TRUE	/	FALSE	1999999999	__cfduid	d39c2f3ff30f515f6cf3bbac60eab568d1541765863
+.hstatic.net	TRUE	/	FALSE	1999999999	__cfduid	df1802ed5c601d7bccd3f1d32c7cab4071541765903
+.mwcstore.net	TRUE	/	FALSE	1999999999	__cfduid	d8baec6d43e87b4ffbbaa6aa97bcaed201541769073
+
